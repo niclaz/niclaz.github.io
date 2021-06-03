@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello Internet</h1>
+<p>This static webpage is hosted with GitHub Pages.</p>
+</body>
+</html>
